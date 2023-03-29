@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/thread-exercise.iml" filepath="$PROJECT_DIR$/thread-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-safe/thread-safe.iml" filepath="$PROJECT_DIR$/thread-safe/thread-safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-safe-one/thread-safe-one.iml" filepath="$PROJECT_DIR$/thread-safe-one/thread-safe-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadsafe-using-volatileKeyword/threadsafe-using-volatileKeyword.iml" filepath="$PROJECT_DIR$/threadsafe-using-volatileKeyword/threadsafe-using-volatileKeyword.iml" />
     </modules>
   </component>
 </project>
