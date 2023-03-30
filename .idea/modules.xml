@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lock-producer-consumer/lock-producer-consumer.iml" filepath="$PROJECT_DIR$/lock-producer-consumer/lock-producer-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-exercise.iml" filepath="$PROJECT_DIR$/thread-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-safe/thread-safe.iml" filepath="$PROJECT_DIR$/thread-safe/thread-safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-safe-one/thread-safe-one.iml" filepath="$PROJECT_DIR$/thread-safe-one/thread-safe-one.iml" />
